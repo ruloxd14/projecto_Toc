@@ -13,8 +13,19 @@
     <string name="verificar_contra">Verificar contraseña</string>
     <string name="inicio">Inicio</string>
     <string name="semanas">Semanas</string>
+    <string name="semana">Semana</string>
     <string name="material_extra">Material extra</string>
     <string name="configuracion">Configuración</string>
+
+
+
+    <string name="semanaButon1">Semana 01-07</string>
+    <string name="semanaButon2">Semana 08-14</string>
+    <string name="semanaButon3">Semana 15-21</string>
+    <string name="semanaButon4">Semana 22-28</string>
+    <string name="semanaButon5">Semana 29-31</string>
+    <string name="marzo">Marzo</string>
+
 
 
 </resources>

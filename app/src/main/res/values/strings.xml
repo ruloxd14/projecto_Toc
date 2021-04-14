@@ -17,9 +17,10 @@
     <string name="material_extra">Material extra</string>
     <string name="configuracion">Configuración</string>
     <string name="ver">ver mas</string>
-
-
-
+    <string name="arte">Arte</string>
+    <string name="ocio">Ocio</string>
+    <string name="lectura">Lectura</string>
+    <string name="fisico">Fisico</string>
     <string name="semanaButon1">Semana 01-07</string>
     <string name="semanaButon2">Semana 08-14</string>
     <string name="semanaButon3">Semana 15-21</string>
@@ -32,6 +33,24 @@
     <string name="diaActividad2">Miercoles 31 de Marzo</string>
     <string name="Actividad2">Las actividades a realizar en mesa tendrán que estar acompañadas de una buena postura:</string>
     <string name="descargar">Descargar material</string>
+    <string name="dibujo">Dibujo</string>
+    <string name="dibujoact">Pedro debe pintar su casa, Ayudalo a pintar.</string>
+    <string name="baile">Baile</string>
+    <string name="baileact">¿Te gusta bailar? aprende algunos paso.</string>
+    <string name="rom">Rompecabezas</string>
+    <string name="romact">Creemos  un rompecabezas personalizado.</string>
+    <string name="oca">Juego de la oca</string>
+    <string name="ocaact">Juguemos al juego de la oca en grupo.</string>
+    <string name="paco">Paco el Chato</string>
+    <string name="pacoact">Había una vez en un rancho conocido como "7 vacas" un niño que se llamaba Paco el Chato.</string>
+    <string name="cuento">Cuento de la zorra y la cigüeña</string>
+    <string name="cuentoact">Hacía mucho tiempo que la zorra y la cigüeña no se veían y un día se encontraron por casualidad.</string>
+    <string name="animales">Animales</string>
+    <string name="animalesact">Juguemos a ser un cangrejo.Desplázate como un cangrejo u otros animales.</string>
+    <string name="soga">Tiro de soga</string>
+    <string name="sogaact">Agarrar una frazada o soga y jugar a tirar de un lado y del otro.</string>
+
+
 
 
 

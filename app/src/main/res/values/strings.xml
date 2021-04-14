@@ -39,14 +39,17 @@
     <string name="baileact">¿Te gusta bailar? aprende algunos paso.</string>
     <string name="rom">Rompecabezas</string>
     <string name="romact">Creemos  un rompecabezas personalizado.</string>
+    <string name="romact2">Creemos un rompecabezas personalizado. Material:Imagen impresa Plantilla de rompecabezas Tijeras pegamento Cartón o papel grueso Instrucciones -Debes imprimir la plantilla que esta en la actividad e imprimir un fotografía o imagen.-Recortaras el </string>
     <string name="oca">Juego de la oca</string>
     <string name="ocaact">Juguemos al juego de la oca en grupo.</string>
     <string name="paco">Paco el Chato</string>
     <string name="pacoact">Había una vez en un rancho conocido como "7 vacas" un niño que se llamaba Paco el Chato.</string>
+    <string name="pacoact2">Había una vez en un rancho conocido como "7 vacas" un niño que se llamaba Paco el Chato, Paco el Chato vivía ahí desde su nacimiento, al cumplir seis años Paco debía de entrar a la escuela.</string>
     <string name="cuento">Cuento de la zorra y la cigüeña</string>
     <string name="cuentoact">Hacía mucho tiempo que la zorra y la cigüeña no se veían y un día se encontraron por casualidad.</string>
     <string name="animales">Animales</string>
     <string name="animalesact">Juguemos a ser un cangrejo.Desplázate como un cangrejo u otros animales.</string>
+    <string name="animalesact2">Juguemos a ser un cangrejo. Desplázate como un cangrejo u otros animales. Ejemplo de animales:Canguro Rana Oso Pájaro Conejo</string>
     <string name="soga">Tiro de soga</string>
     <string name="sogaact">Agarrar una frazada o soga y jugar a tirar de un lado y del otro.</string>
 

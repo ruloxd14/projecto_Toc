@@ -14,6 +14,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/marzo"
+        android:textStyle="bold"
+        android:textColor="@color/azulFuerte"
         android:textSize="40sp"
         android:layout_marginStart="49dp"
         android:layout_marginTop="38dp"

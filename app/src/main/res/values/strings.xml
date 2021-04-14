@@ -16,6 +16,7 @@
     <string name="semana">Semana</string>
     <string name="material_extra">Material extra</string>
     <string name="configuracion">Configuración</string>
+    <string name="ver">ver mas</string>
 
 
 
@@ -25,6 +26,12 @@
     <string name="semanaButon4">Semana 22-28</string>
     <string name="semanaButon5">Semana 29-31</string>
     <string name="marzo">Marzo</string>
+    <string name="diaActividad1">Lunes 29 de Marzo</string>
+    <string name="Actividad1">En la siguiente actividad la persona deberá buscar diferentes objetos de diferentes imágenes.</string>
+    <string name="Actividad1.1">Encuentra los objetos</string>
+    <string name="diaActividad2">Miercoles 31 de Marzo</string>
+    <string name="Actividad2">Las actividades a realizar en mesa tendrán que estar acompañadas de una buena postura:</string>
+    <string name="descargar">Descargar material</string>
 
 
 

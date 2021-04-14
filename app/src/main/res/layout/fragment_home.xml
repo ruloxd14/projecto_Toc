@@ -1,22 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/azulBajo"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.home.HomeFragment">
 
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="197dp"
+            android:layout_height="145dp"
+            android:src="@drawable/usuario_blanco" />
+
+        <TextView
+            android:layout_width="214dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="Nombre usuario" />
+
+
+    </LinearLayout>
+
+
     <TextView
-        android:id="@+id/text_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Actividad del día"
+        android:textSize="20sp"
+        android:textColor="@color/teal_700"
+        android:layout_marginTop="20sp"
+        android:layout_marginHorizontal="30dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Actividad 1 - 29 de marzo 2021"
+        android:textSize="20sp"
+        android:textColor="@color/azulFuerte"
+        android:layout_marginHorizontal="30dp"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notas"
+        android:textSize="20sp"
+        android:textColor="@color/teal_700"
+        android:layout_marginTop="20sp"
+        android:layout_marginHorizontal="30dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pendientes"
+        android:textSize="20sp"
+        android:textColor="@color/azulFuerte"
+        android:layout_marginHorizontal="30dp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_gravity="right"
+        android:text="Ver más"
+        android:textColor="@color/azulFuerte"
+        android:textSize="20sp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Insignias"
+        android:textSize="20sp"
+        android:textColor="@color/teal_700"
+        android:layout_marginTop="20sp"
+        android:layout_marginHorizontal="30dp"
+
+        />
+
+    <TableLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:textAlignment="center"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:layout_gravity="center_vertical" >
+        <TableRow>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="157dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/elipse" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="157dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/elipse" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="157dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/elipse" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="157dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/elipse" />
+        </TableRow>
+
+
+    </TableLayout>
+
+
+
+
+
+</LinearLayout>

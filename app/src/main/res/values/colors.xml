@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!--Nuevos colores para Toc-->
+
+    <color name="azulFuerte">#459fb6</color>
+    <color name="azulBajo">#CCF2FA</color>
+    <color name="colorLetra">#707070</color>
+    <color name="colorBoton">#aaaaaa</color>
+
+
 </resources>

@@ -3,4 +3,18 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="correo">Correo electroníco</string>
+    <string name="contra">contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="sesion_face">Inicie sesión con Facebook</string>
+    <string name="sesion_google">Inicie sesión con Google</string>
+    <string name="registrarse">Regístrarse</string>
+    <string name="nombre">Nombre</string>
+    <string name="verificar_contra">Verificar contraseña</string>
+    <string name="inicio">Inicio</string>
+    <string name="semanas">Semanas</string>
+    <string name="material_extra">Material extra</string>
+    <string name="configuracion">Configuración</string>
+
+
 </resources>
